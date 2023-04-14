@@ -1,0 +1,26 @@
+h1{
+    font-size: 120px;
+    font-family:'Montserrat', sans-serif; 
+    
+}
+
+.otro-color{
+    color: hotpink;
+}
+
+.color-rojo{
+    color: red;
+}
+
+.color-verde{
+    color: seagreen;
+}
+
+.color-azul{
+    color: blue;
+}
+
+p{
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
